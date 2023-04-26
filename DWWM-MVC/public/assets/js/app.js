@@ -1,0 +1,1 @@
+alert('au gogole');
